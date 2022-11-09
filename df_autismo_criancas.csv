@@ -1,0 +1,288 @@
+AQ01,AQ02,AQ03,AQ04,AQ05,AQ06,AQ07,AQ08,AQ09,AQ10,age,gender,jundice,austim,contry_of_res,used_app_before,result numeric,age_desc,Class/ASD,Grup
+1,1,0,0,1,1,0,1,0,0,6,m,no,no,Jordan,no,5,'4-11 years',NO,Crianca
+1,1,0,0,0,1,1,1,0,0,6,m,no,no,Jordan,yes,5,'4-11 years',NO,Crianca
+0,1,0,0,1,1,0,0,0,1,5,f,yes,no,Jordan,no,4,'4-11 years',NO,Crianca
+1,1,1,1,1,1,1,1,1,1,5,m,yes,no,'United States',no,10,'4-11 years',YES,Crianca
+0,0,1,0,1,1,0,1,0,1,4,m,no,yes,Egypt,no,5,'4-11 years',NO,Crianca
+1,0,1,1,1,1,0,1,0,1,5,m,no,no,'United Kingdom',no,7,'4-11 years',YES,Crianca
+1,1,1,1,1,1,1,1,0,0,5,f,no,no,Bahrain,no,8,'4-11 years',YES,Crianca
+1,1,1,1,1,1,1,0,0,0,11,f,no,no,Bahrain,no,7,'4-11 years',YES,Crianca
+0,0,1,1,1,0,1,1,0,0,11,f,no,yes,Austria,no,5,'4-11 years',NO,Crianca
+1,0,0,0,1,1,1,1,1,1,10,m,yes,no,'United Kingdom',no,7,'4-11 years',YES,Crianca
+0,1,0,0,1,0,0,0,0,1,5,f,no,no,Kuwait,no,3,'4-11 years',NO,Crianca
+0,1,1,1,1,1,1,1,1,1,4,m,yes,no,'United States',no,9,'4-11 years',YES,Crianca
+1,0,0,0,0,0,1,0,0,0,4,f,no,no,'United Arab Emirates',no,2,'4-11 years',NO,Crianca
+1,1,1,1,1,1,1,1,1,1,6,m,no,no,Europe,no,10,'4-11 years',YES,Crianca
+1,1,1,1,1,1,1,1,1,1,8,m,no,no,Malta,no,10,'4-11 years',YES,Crianca
+1,1,1,1,1,1,0,1,1,1,4,m,no,no,Bulgaria,no,9,'4-11 years',YES,Crianca
+0,0,0,0,0,0,1,0,0,0,7,m,no,no,'United States',no,1,'4-11 years',NO,Crianca
+1,0,1,1,1,0,1,1,1,1,11,m,no,yes,'United States',no,8,'4-11 years',YES,Crianca
+1,1,1,1,1,1,0,1,0,1,5,m,no,no,Egypt,no,8,'4-11 years',YES,Crianca
+1,1,1,1,1,1,1,0,1,0,5,m,yes,no,'South Africa',no,8,'4-11 years',YES,Crianca
+0,0,1,1,0,1,0,1,1,0,9,f,no,no,Egypt,no,5,'4-11 years',NO,Crianca
+1,1,0,1,0,0,0,0,0,0,4,m,no,no,India,no,3,'4-11 years',NO,Crianca
+1,0,1,1,0,1,0,0,1,0,6,f,no,no,India,no,5,'4-11 years',NO,Crianca
+1,0,1,1,1,1,0,1,1,1,11,m,no,no,Egypt,no,8,'4-11 years',YES,Crianca
+0,0,1,1,1,0,1,1,1,0,6,m,no,yes,'United Kingdom',no,6,'4-11 years',NO,Crianca
+1,0,1,0,1,1,0,0,1,1,6,f,no,no,Afghanistan,no,6,'4-11 years',NO,Crianca
+1,1,1,1,1,1,1,1,1,1,5,m,yes,no,'United States',yes,10,'4-11 years',YES,Crianca
+0,1,1,0,0,0,1,1,0,1,6,m,no,yes,'United Arab Emirates',no,5,'4-11 years',NO,Crianca
+0,0,1,0,1,0,1,0,0,0,4,f,yes,yes,Georgia,no,3,'4-11 years',NO,Crianca
+1,1,1,1,1,1,1,1,1,1,11,m,no,no,'United Kingdom',no,10,'4-11 years',YES,Crianca
+0,0,1,0,0,1,0,0,1,1,6,m,yes,no,'New Zealand',no,4,'4-11 years',NO,Crianca
+1,0,0,0,1,1,0,1,0,1,5,m,yes,no,India,no,5,'4-11 years',NO,Crianca
+1,0,0,0,1,1,0,0,1,1,6,m,yes,no,India,no,5,'4-11 years',NO,Crianca
+0,1,0,0,0,0,0,0,0,0,7,f,yes,no,Syria,no,1,'4-11 years',NO,Crianca
+0,1,0,0,1,0,0,1,0,0,4,f,no,no,Syria,no,3,'4-11 years',NO,Crianca
+1,1,0,0,0,0,0,0,0,0,7,m,no,no,'New Zealand',no,2,'4-11 years',NO,Crianca
+1,1,1,1,1,1,1,1,1,1,4,m,yes,no,'United Kingdom',no,10,'4-11 years',YES,Crianca
+0,1,1,1,1,1,1,1,0,1,4,m,no,no,India,no,8,'4-11 years',YES,Crianca
+0,0,1,1,1,1,0,1,0,1,5,m,yes,no,Jordan,no,6,'4-11 years',NO,Crianca
+0,1,0,0,0,0,0,0,0,0,4,m,no,no,Afghanistan,no,1,'4-11 years',NO,Crianca
+1,0,0,0,1,0,1,0,0,1,6,f,no,no,Jordan,no,4,'4-11 years',NO,Crianca
+1,0,1,1,1,1,0,1,1,1,4,f,no,no,Jordan,no,8,'4-11 years',YES,Crianca
+0,0,0,1,0,0,1,0,0,0,10,m,no,no,Jordan,no,2,'4-11 years',NO,Crianca
+0,1,1,0,1,1,0,0,0,1,4,f,yes,no,Iraq,no,5,'4-11 years',NO,Crianca
+0,1,1,0,1,1,0,0,0,0,4,f,yes,no,Iraq,no,4,'4-11 years',NO,Crianca
+1,1,1,0,1,0,1,1,0,1,6,m,no,no,Jordan,no,7,'4-11 years',YES,Crianca
+1,0,1,1,1,1,0,0,1,1,6,f,yes,no,'New Zealand',no,7,'4-11 years',YES,Crianca
+0,1,0,0,1,0,0,0,0,0,7,m,no,yes,Jordan,no,2,'4-11 years',NO,Crianca
+0,1,0,0,1,0,1,0,0,1,7,m,yes,no,Jordan,no,4,'4-11 years',NO,Crianca
+0,0,1,0,1,1,1,0,1,1,4,m,no,no,India,no,6,'4-11 years',NO,Crianca
+1,0,0,1,0,1,0,1,1,1,6,m,no,no,Jordan,no,6,'4-11 years',NO,Crianca
+1,1,1,1,1,1,1,0,1,1,7,m,yes,no,'United States',no,9,'4-11 years',YES,Crianca
+1,0,1,1,0,1,0,0,0,1,5,m,no,no,'United Arab Emirates',no,5,'4-11 years',NO,Crianca
+0,0,1,0,1,0,0,0,0,0,5,m,no,no,Australia,no,2,'4-11 years',NO,Crianca
+0,0,1,0,0,1,0,0,0,0,6,m,no,no,'Saudi Arabia',no,2,'4-11 years',NO,Crianca
+1,0,1,1,1,1,1,1,1,1,4,f,no,no,Georgia,no,9,'4-11 years',YES,Crianca
+1,0,1,1,1,1,1,1,1,0,9,f,no,no,Armenia,no,8,'4-11 years',YES,Crianca
+1,0,1,1,1,1,0,0,1,1,4,m,no,yes,'United States',no,7,'4-11 years',YES,Crianca
+1,0,1,0,1,0,0,0,0,0,4,m,no,no,Turkey,no,3,'4-11 years',NO,Crianca
+1,0,1,1,1,1,1,1,1,1,9,m,no,no,'United States',no,9,'4-11 years',YES,Crianca
+1,1,1,0,1,1,0,0,0,1,4,f,yes,no,Australia,no,6,'4-11 years',NO,Crianca
+1,1,1,0,1,1,1,1,1,1,9,m,yes,no,Pakistan,no,9,'4-11 years',YES,Crianca
+1,0,1,1,0,0,0,1,0,1,8,m,no,no,'United States',no,5,'4-11 years',NO,Crianca
+1,0,0,0,1,0,0,0,0,1,4,m,no,no,'United Kingdom',no,3,'4-11 years',NO,Crianca
+1,0,0,0,1,0,1,0,0,1,4,m,no,no,'United Kingdom',no,4,'4-11 years',NO,Crianca
+0,0,1,0,1,1,1,0,1,0,4,f,no,yes,Pakistan,no,5,'4-11 years',NO,Crianca
+1,0,1,1,1,1,1,1,1,1,4,m,no,yes,Canada,no,9,'4-11 years',YES,Crianca
+1,0,1,0,1,0,1,0,0,1,7,m,no,no,Oman,no,5,'4-11 years',NO,Crianca
+0,1,0,0,1,0,1,0,0,1,7,f,yes,no,'United Kingdom',no,4,'4-11 years',NO,Crianca
+1,0,1,1,1,1,0,1,0,1,6,m,no,no,India,no,7,'4-11 years',YES,Crianca
+1,0,1,1,1,1,0,1,1,1,5,f,no,no,Canada,no,8,'4-11 years',YES,Crianca
+1,0,1,1,1,1,0,0,1,1,8,f,no,yes,Canada,no,7,'4-11 years',YES,Crianca
+0,0,0,1,1,1,1,1,1,0,5,m,no,no,'United Kingdom',no,6,'4-11 years',NO,Crianca
+1,1,1,1,0,1,1,1,1,1,11,f,no,no,Canada,no,9,'4-11 years',YES,Crianca
+1,0,0,0,1,0,1,0,0,1,8,m,yes,no,'New Zealand',no,4,'4-11 years',NO,Crianca
+1,1,1,1,1,1,1,0,1,1,4,m,no,yes,Brazil,no,9,'4-11 years',YES,Crianca
+0,1,1,1,0,1,0,1,1,0,7,m,yes,no,'New Zealand',no,6,'4-11 years',NO,Crianca
+1,0,0,1,0,1,0,0,0,0,4,m,no,no,'New Zealand',no,3,'4-11 years',NO,Crianca
+0,1,1,1,1,1,1,1,1,1,7,m,yes,yes,'New Zealand',no,9,'4-11 years',YES,Crianca
+1,0,1,1,1,1,1,1,0,1,8,m,no,no,'United States',no,8,'4-11 years',YES,Crianca
+0,1,1,0,1,1,0,0,0,1,5,m,no,no,'South Korea',no,5,'4-11 years',NO,Crianca
+0,0,1,0,1,1,1,0,1,1,4,m,no,no,India,no,6,'4-11 years',NO,Crianca
+1,1,1,1,1,1,1,0,1,1,11,f,no,no,'United Kingdom',no,9,'4-11 years',YES,Crianca
+1,1,1,1,0,0,1,0,1,1,11,f,no,no,'United Kingdom',no,7,'4-11 years',YES,Crianca
+1,1,1,1,1,1,1,1,1,1,4,m,no,no,'South Africa',no,10,'4-11 years',YES,Crianca
+1,1,1,1,0,1,0,0,0,0,5,m,no,yes,'Costa Rica',no,5,'4-11 years',NO,Crianca
+0,1,1,1,1,1,1,1,1,1,6,m,no,no,'United States',no,9,'4-11 years',YES,Crianca
+1,0,1,1,1,1,1,0,1,1,4,f,no,no,Australia,no,8,'4-11 years',YES,Crianca
+1,0,0,1,1,1,1,0,0,0,11,f,yes,yes,'United Kingdom',no,5,'4-11 years',NO,Crianca
+0,0,1,1,1,1,1,1,1,1,5,m,no,no,India,no,8,'4-11 years',YES,Crianca
+0,0,1,1,1,1,1,1,1,1,5,m,no,no,India,no,8,'4-11 years',YES,Crianca
+1,1,1,1,1,1,1,1,1,1,6,m,no,no,'United States',no,10,'4-11 years',YES,Crianca
+1,0,1,0,1,1,1,1,0,1,7,m,no,no,'United States',no,7,'4-11 years',YES,Crianca
+1,1,1,1,1,1,0,1,0,1,11,m,no,no,Sweden,no,8,'4-11 years',YES,Crianca
+1,1,1,1,1,0,1,0,1,1,4,m,no,no,Australia,no,8,'4-11 years',YES,Crianca
+1,1,1,0,1,1,1,0,1,1,4,m,no,yes,'United States',no,8,'4-11 years',YES,Crianca
+0,0,1,1,0,0,0,0,0,0,7,m,no,yes,'United States',no,2,'4-11 years',NO,Crianca
+1,1,0,1,0,1,1,0,1,0,11,f,yes,yes,'United Kingdom',no,6,'4-11 years',NO,Crianca
+1,1,1,1,0,1,1,0,0,1,6,f,no,no,Philippines,no,7,'4-11 years',YES,Crianca
+0,0,0,0,0,0,1,0,1,0,9,f,no,no,'United Kingdom',no,2,'4-11 years',NO,Crianca
+0,1,0,1,0,1,0,0,1,1,10,m,no,no,'United States',no,5,'4-11 years',NO,Crianca
+0,0,0,0,1,1,1,0,0,1,4,m,no,yes,Malaysia,no,4,'4-11 years',NO,Crianca
+1,1,1,1,1,1,0,1,0,1,4,m,yes,no,Philippines,no,8,'4-11 years',YES,Crianca
+1,1,1,1,1,1,0,0,1,1,10,m,yes,no,'United Kingdom',no,8,'4-11 years',YES,Crianca
+1,0,0,0,1,0,0,0,0,1,4,f,yes,yes,'United Kingdom',no,3,'4-11 years',NO,Crianca
+0,1,0,0,0,1,1,1,0,0,11,m,no,no,Argentina,no,4,'4-11 years',NO,Crianca
+0,0,1,0,1,0,0,0,0,1,7,m,no,no,Japan,no,3,'4-11 years',NO,Crianca
+0,1,1,1,1,0,1,1,0,1,5,m,no,no,Syria,no,7,'4-11 years',YES,Crianca
+1,1,0,0,0,0,0,0,0,1,4,f,no,no,'United States',no,3,'4-11 years',NO,Crianca
+0,0,1,1,1,1,0,1,1,1,8,m,no,no,'United States',no,7,'4-11 years',YES,Crianca
+1,1,1,1,1,1,1,1,1,0,4,m,no,no,Australia,no,9,'4-11 years',YES,Crianca
+1,0,1,0,1,1,0,1,0,1,4,m,no,no,India,no,6,'4-11 years',NO,Crianca
+1,1,1,1,1,1,1,1,1,1,11,m,yes,no,India,no,10,'4-11 years',YES,Crianca
+1,1,1,1,1,1,1,0,1,1,10,f,no,no,'United States',no,9,'4-11 years',YES,Crianca
+1,1,0,1,0,1,0,0,1,1,6,f,no,no,'United States',no,6,'4-11 years',NO,Crianca
+0,0,0,1,1,1,1,1,1,0,4,m,no,no,Bangladesh,no,6,'4-11 years',NO,Crianca
+0,1,1,0,1,0,0,0,0,1,4,m,no,yes,Bangladesh,no,4,'4-11 years',NO,Crianca
+0,1,1,1,0,1,0,1,1,1,4,m,no,no,Bangladesh,no,7,'4-11 years',YES,Crianca
+0,0,1,1,0,0,1,1,1,0,10,m,no,no,'United States',no,5,'4-11 years',NO,Crianca
+1,1,1,1,1,1,1,1,1,1,7,m,no,no,'United Kingdom',no,10,'4-11 years',YES,Crianca
+0,1,1,0,0,1,1,1,0,0,4,m,yes,no,Qatar,no,5,'4-11 years',NO,Crianca
+1,1,1,0,0,1,1,1,1,1,6,f,yes,no,Ireland,no,8,'4-11 years',YES,Crianca
+0,1,1,0,1,1,1,1,1,1,5,m,no,no,India,no,8,'4-11 years',YES,Crianca
+0,0,1,0,1,1,1,1,1,1,4,f,yes,no,'United Kingdom',no,7,'4-11 years',YES,Crianca
+1,0,1,0,1,1,1,1,0,0,9,m,no,no,India,yes,6,'4-11 years',NO,Crianca
+1,0,1,1,0,1,1,1,0,1,4,f,yes,no,'United States',no,7,'4-11 years',YES,Crianca
+1,1,1,1,1,1,1,0,1,1,10,m,no,no,'New Zealand',yes,9,'4-11 years',YES,Crianca
+1,1,0,0,0,0,1,0,0,1,9,m,no,no,'New Zealand',no,4,'4-11 years',NO,Crianca
+0,1,1,1,1,1,0,0,0,1,5,m,yes,yes,'United Kingdom',no,6,'4-11 years',NO,Crianca
+1,1,1,0,0,0,0,0,1,1,4,f,no,no,Canada,no,5,'4-11 years',NO,Crianca
+1,1,1,1,1,1,0,1,1,1,4,m,no,yes,'United Kingdom',no,9,'4-11 years',YES,Crianca
+0,1,1,1,1,0,0,0,1,0,6,m,no,no,Romania,no,5,'4-11 years',NO,Crianca
+1,1,1,0,1,0,1,0,1,1,4,f,yes,no,'United Kingdom',no,7,'4-11 years',YES,Crianca
+0,0,0,0,0,0,0,0,0,0,5,f,no,no,'United States',no,0,'4-11 years',NO,Crianca
+1,1,1,1,1,1,1,1,1,1,9,m,yes,yes,'United Kingdom',no,10,'4-11 years',YES,Crianca
+1,0,1,1,1,0,1,1,1,1,7,f,no,no,Australia,no,8,'4-11 years',YES,Crianca
+0,1,1,0,0,1,1,1,0,1,10,f,no,no,Netherlands,no,6,'4-11 years',NO,Crianca
+1,0,1,1,1,1,0,1,0,1,4,m,no,no,India,no,7,'4-11 years',YES,Crianca
+1,0,1,1,0,1,1,1,0,1,4,m,no,no,India,no,7,'4-11 years',YES,Crianca
+1,1,0,1,1,1,1,0,0,0,7,f,no,no,'United Kingdom',no,6,'4-11 years',NO,Crianca
+1,1,1,1,1,1,1,0,1,1,4,m,yes,no,'United States',no,9,'4-11 years',YES,Crianca
+0,1,1,0,1,0,1,0,0,1,4,m,yes,no,Lebanon,no,5,'4-11 years',NO,Crianca
+1,1,1,1,1,1,1,0,1,1,10,m,no,no,Germany,no,9,'4-11 years',YES,Crianca
+0,0,1,0,1,1,0,1,1,1,4,m,no,no,India,no,6,'4-11 years',NO,Crianca
+0,0,0,0,1,1,1,0,0,0,4,m,no,no,Latvia,yes,3,'4-11 years',NO,Crianca
+1,1,1,1,1,1,0,0,0,1,4,m,no,yes,'Saudi Arabia',no,7,'4-11 years',YES,Crianca
+1,0,1,0,1,1,0,1,1,1,4,m,no,yes,'United States',no,7,'4-11 years',YES,Crianca
+0,1,1,0,0,0,1,1,1,1,7,m,yes,no,'United States',no,6,'4-11 years',NO,Crianca
+1,1,1,1,1,1,1,0,1,1,4,m,no,no,'United States',no,9,'4-11 years',YES,Crianca
+1,1,1,1,1,0,1,0,1,1,5,f,no,no,'New Zealand',no,8,'4-11 years',YES,Crianca
+1,1,1,1,1,1,1,1,0,1,6,m,yes,no,'United Kingdom',no,9,'4-11 years',YES,Crianca
+0,1,0,0,0,1,1,1,1,1,6,f,no,no,'United Kingdom',no,6,'4-11 years',NO,Crianca
+1,1,0,0,1,1,1,1,1,1,6,f,no,yes,'United Kingdom',no,8,'4-11 years',YES,Crianca
+0,1,0,1,1,1,1,0,1,1,9,m,no,yes,'United Kingdom',no,7,'4-11 years',YES,Crianca
+1,1,1,1,1,1,1,1,1,1,8,m,no,no,'United Kingdom',no,10,'4-11 years',YES,Crianca
+1,0,1,1,1,1,0,1,0,1,11,m,no,no,Jordan,no,7,'4-11 years',YES,Crianca
+1,0,0,0,1,1,1,1,1,1,9,m,no,no,Australia,no,7,'4-11 years',YES,Crianca
+0,1,0,0,0,1,0,0,0,1,9,f,no,yes,'United Kingdom',no,3,'4-11 years',NO,Crianca
+1,0,0,1,1,1,1,0,1,1,7,m,no,no,'United States',no,7,'4-11 years',YES,Crianca
+0,0,1,0,0,1,1,0,0,1,4,m,no,no,India,no,4,'4-11 years',NO,Crianca
+1,0,0,0,1,1,1,0,0,1,10,f,no,no,Australia,no,5,'4-11 years',NO,Crianca
+0,0,0,0,1,0,1,1,0,1,8,m,no,no,'United Arab Emirates',no,4,'4-11 years',NO,Crianca
+1,0,1,1,1,1,1,1,0,1,6,m,no,no,Australia,no,8,'4-11 years',YES,Crianca
+0,1,1,1,1,1,0,1,1,1,8,m,yes,no,Russia,no,8,'4-11 years',YES,Crianca
+1,0,1,1,1,1,1,1,1,1,11,f,no,no,Austria,no,9,'4-11 years',YES,Crianca
+1,1,1,0,1,0,1,0,0,0,5,f,no,no,Italy,no,5,'4-11 years',NO,Crianca
+0,0,1,0,1,0,1,0,0,1,4,f,no,yes,Australia,no,4,'4-11 years',NO,Crianca
+1,1,1,1,1,1,1,1,1,1,11,m,no,no,Australia,no,10,'4-11 years',YES,Crianca
+0,0,1,1,1,1,0,0,0,1,11,f,yes,no,'United Kingdom',no,5,'4-11 years',NO,Crianca
+0,1,1,0,0,1,1,1,0,0,4,m,yes,no,Qatar,yes,5,'4-11 years',NO,Crianca
+1,0,1,0,1,1,0,0,0,0,8,m,no,no,'United Kingdom',no,4,'4-11 years',NO,Crianca
+1,0,1,1,1,0,0,0,0,0,8,m,no,no,'United Kingdom',yes,4,'4-11 years',NO,Crianca
+1,1,1,1,1,1,1,1,1,1,9,m,no,no,'United Kingdom',no,10,'4-11 years',YES,Crianca
+0,0,0,1,0,1,0,0,1,1,4,m,no,no,Bangladesh,no,4,'4-11 years',NO,Crianca
+0,0,1,0,1,1,1,1,1,1,4,m,no,no,Bangladesh,no,7,'4-11 years',YES,Crianca
+1,1,1,1,1,1,0,0,1,1,4,f,yes,no,China,no,8,'4-11 years',YES,Crianca
+0,1,1,0,1,0,1,0,0,0,4,f,no,no,Pakistan,no,4,'4-11 years',NO,Crianca
+1,0,0,1,1,1,1,1,1,1,11,m,no,no,'United States',yes,8,'4-11 years',YES,Crianca
+0,1,1,1,0,1,0,0,0,1,10,f,no,no,Australia,no,5,'4-11 years',NO,Crianca
+1,0,1,1,1,1,0,1,0,1,11,m,no,no,India,no,7,'4-11 years',YES,Crianca
+1,0,1,0,1,0,1,0,1,1,4,m,yes,no,'United Kingdom',no,6,'4-11 years',NO,Crianca
+1,1,1,0,1,0,1,1,1,1,4,m,yes,no,'United States',no,8,'4-11 years',YES,Crianca
+1,1,1,1,1,1,1,1,1,1,6,f,no,no,Nigeria,no,10,'4-11 years',YES,Crianca
+0,0,1,1,1,1,1,1,0,0,8,m,no,no,'United Kingdom',no,6,'4-11 years',NO,Crianca
+1,1,1,1,1,0,1,1,1,1,4,f,no,yes,Australia,no,9,'4-11 years',YES,Crianca
+1,1,1,0,1,1,0,1,0,1,4,m,no,no,Lebanon,no,7,'4-11 years',YES,Crianca
+1,1,0,1,1,1,1,0,0,1,8,m,no,no,Armenia,no,7,'4-11 years',YES,Crianca
+1,1,1,0,1,1,0,0,1,1,11,m,no,no,'United States',no,7,'4-11 years',YES,Crianca
+1,0,1,0,1,1,1,0,1,0,4,f,yes,yes,'United Kingdom',no,6,'4-11 years',NO,Crianca
+1,1,0,0,1,1,1,0,0,0,5,m,no,no,Iraq,no,5,'4-11 years',NO,Crianca
+1,1,1,0,0,0,0,0,0,0,4,m,no,no,'U.S. Outlying Islands',no,3,'4-11 years',NO,Crianca
+1,1,1,1,1,1,0,0,1,1,8,m,no,no,Australia,no,8,'4-11 years',YES,Crianca
+0,0,1,0,1,1,1,1,1,1,4,m,no,no,'New Zealand',no,7,'4-11 years',YES,Crianca
+0,1,1,1,1,1,1,1,1,1,4,m,no,no,India,no,9,'4-11 years',YES,Crianca
+1,0,0,0,1,0,1,0,0,1,9,m,no,yes,Australia,no,4,'4-11 years',NO,Crianca
+1,0,0,0,1,0,1,0,0,1,9,m,yes,yes,Australia,no,4,'4-11 years',NO,Crianca
+1,1,1,1,1,1,1,0,1,0,4,f,no,yes,'United Kingdom',no,8,'4-11 years',YES,Crianca
+0,0,1,0,1,0,1,0,0,1,5,m,no,no,India,no,4,'4-11 years',NO,Crianca
+1,1,1,1,1,1,0,0,0,1,7,f,yes,no,India,no,7,'4-11 years',YES,Crianca
+1,0,1,1,1,0,1,1,1,1,4,f,yes,no,'United Kingdom',no,8,'4-11 years',YES,Crianca
+1,1,1,1,0,1,0,0,0,0,5,f,no,no,'United Kingdom',no,5,'4-11 years',NO,Crianca
+1,1,1,1,1,1,0,1,1,0,6,m,no,no,Nepal,no,8,'4-11 years',YES,Crianca
+1,1,1,1,0,1,1,1,1,1,8,m,no,no,'United Kingdom',no,9,'4-11 years',YES,Crianca
+1,0,0,0,1,0,0,0,0,1,4,m,no,no,Bangladesh,no,3,'4-11 years',NO,Crianca
+1,0,1,1,1,1,0,1,0,0,5,m,no,yes,Mexico,no,6,'4-11 years',NO,Crianca
+1,0,1,1,1,1,0,1,0,1,5,m,no,yes,Mexico,no,7,'4-11 years',YES,Crianca
+1,0,1,0,1,0,1,0,1,1,6,m,yes,no,'United States',no,6,'4-11 years',NO,Crianca
+0,1,1,0,1,1,0,0,0,1,4,m,yes,no,Malaysia,no,5,'4-11 years',NO,Crianca
+0,0,1,0,1,1,1,0,1,1,8,m,no,no,'United Kingdom',no,6,'4-11 years',NO,Crianca
+1,0,1,1,0,1,0,1,1,0,5,m,no,no,India,no,6,'4-11 years',NO,Crianca
+1,1,1,1,1,1,1,1,1,1,4,f,no,yes,'United States',no,10,'4-11 years',YES,Crianca
+1,0,1,1,1,1,1,1,1,0,6,m,no,no,Australia,no,8,'4-11 years',YES,Crianca
+0,0,0,0,0,0,0,0,0,1,11,m,no,yes,Turkey,no,1,'4-11 years',NO,Crianca
+0,0,1,0,0,0,1,0,1,0,6,m,no,no,'United Kingdom',no,3,'4-11 years',NO,Crianca
+1,0,1,1,1,1,1,1,1,1,4,f,no,no,'United States',no,9,'4-11 years',YES,Crianca
+1,1,1,1,1,1,1,1,1,1,8,m,no,no,'United States',no,10,'4-11 years',YES,Crianca
+1,1,1,1,1,1,1,0,0,1,4,m,no,yes,'United States',no,8,'4-11 years',YES,Crianca
+1,1,1,1,1,0,1,1,0,0,4,m,no,no,'United States',no,7,'4-11 years',YES,Crianca
+1,1,1,1,1,1,0,0,1,1,6,m,no,no,'United States',no,8,'4-11 years',YES,Crianca
+1,0,1,1,1,0,0,0,0,0,8,m,yes,no,Canada,no,4,'4-11 years',NO,Crianca
+1,1,1,1,1,1,1,1,1,1,9,m,yes,no,'United Kingdom',no,10,'4-11 years',YES,Crianca
+0,0,0,0,1,1,0,1,0,1,8,f,no,no,India,no,4,'4-11 years',NO,Crianca
+0,0,1,0,1,1,1,1,1,1,5,m,no,no,India,no,7,'4-11 years',YES,Crianca
+1,0,0,0,1,0,1,1,0,0,5,m,no,no,Jordan,no,4,'4-11 years',NO,Crianca
+1,1,1,1,0,1,0,1,1,1,4,m,yes,no,'Isle of Man',no,8,'4-11 years',YES,Crianca
+1,0,0,1,1,1,1,1,1,1,10,m,no,no,'United States',no,8,'4-11 years',YES,Crianca
+0,1,1,0,0,1,1,0,0,1,4,m,yes,no,Libya,no,5,'4-11 years',NO,Crianca
+0,1,1,1,1,1,1,0,0,1,4,m,yes,no,Libya,yes,7,'4-11 years',YES,Crianca
+0,1,1,1,1,1,0,1,1,1,5,m,no,no,Russia,no,8,'4-11 years',YES,Crianca
+0,1,1,0,1,1,1,0,0,0,4,m,yes,no,Libya,no,5,'4-11 years',NO,Crianca
+0,0,1,1,1,1,0,1,0,1,5,m,no,no,Russia,no,6,'4-11 years',NO,Crianca
+1,1,1,1,1,1,1,0,1,1,7,f,no,no,Philippines,no,9,'4-11 years',YES,Crianca
+0,1,1,0,0,1,0,0,1,1,11,f,yes,no,Philippines,no,5,'4-11 years',NO,Crianca
+1,0,0,1,0,1,0,1,1,0,11,m,no,no,India,no,5,'4-11 years',NO,Crianca
+1,0,0,1,1,1,0,0,0,1,11,f,no,yes,Australia,no,5,'4-11 years',NO,Crianca
+1,1,1,1,0,0,1,0,1,0,9,m,no,no,'New Zealand',no,6,'4-11 years',NO,Crianca
+1,0,1,0,1,1,1,0,0,1,6,m,yes,no,India,no,6,'4-11 years',NO,Crianca
+0,1,0,0,0,0,1,0,0,1,6,m,yes,no,'Saudi Arabia',no,3,'4-11 years',NO,Crianca
+1,1,0,0,0,0,1,0,0,0,9,f,yes,no,'Saudi Arabia',no,3,'4-11 years',NO,Crianca
+0,1,1,0,1,1,0,1,0,1,7,m,yes,no,Jordan,no,6,'4-11 years',NO,Crianca
+1,1,1,0,0,1,0,1,0,1,5,m,no,no,Jordan,no,6,'4-11 years',NO,Crianca
+1,1,1,0,1,0,0,0,0,0,5,m,yes,no,'United Arab Emirates',no,4,'4-11 years',NO,Crianca
+0,0,0,0,0,0,1,0,0,0,10,m,no,yes,'United Arab Emirates',no,1,'4-11 years',NO,Crianca
+0,0,1,0,0,0,1,0,0,1,7,m,no,no,Jordan,no,3,'4-11 years',NO,Crianca
+0,1,0,1,1,0,1,1,0,1,9,m,yes,no,Egypt,no,6,'4-11 years',NO,Crianca
+0,1,0,1,1,1,1,1,0,1,7,m,yes,no,Egypt,no,7,'4-11 years',YES,Crianca
+0,1,1,1,1,1,1,1,0,1,7,m,yes,no,Egypt,no,8,'4-11 years',YES,Crianca
+1,0,1,0,1,1,1,1,0,1,7,m,yes,no,Jordan,no,7,'4-11 years',YES,Crianca
+1,0,1,1,1,1,1,1,0,1,9,f,no,no,Egypt,no,8,'4-11 years',YES,Crianca
+1,1,1,0,0,1,0,0,0,1,5,m,yes,no,'United Arab Emirates',no,5,'4-11 years',NO,Crianca
+1,1,1,0,1,1,0,0,0,0,4,m,no,no,India,no,5,'4-11 years',NO,Crianca
+0,0,0,1,1,1,0,0,0,1,5,m,no,yes,India,no,4,'4-11 years',NO,Crianca
+1,1,1,1,1,1,1,1,1,1,4,f,no,no,Armenia,no,10,'4-11 years',YES,Crianca
+1,0,0,0,1,0,1,0,0,1,5,m,no,no,India,no,4,'4-11 years',NO,Crianca
+1,0,1,1,1,1,1,1,0,1,5,m,no,no,'United States',no,8,'4-11 years',YES,Crianca
+1,1,1,1,0,1,0,0,0,1,4,m,no,no,Italy,no,6,'4-11 years',NO,Crianca
+1,1,0,0,1,0,1,1,0,0,6,m,no,no,India,no,5,'4-11 years',NO,Crianca
+1,1,1,1,1,1,1,1,1,1,6,f,no,no,Canada,no,10,'4-11 years',YES,Crianca
+0,1,1,0,0,1,1,0,1,1,5,m,no,no,India,yes,6,'4-11 years',NO,Crianca
+1,0,1,1,1,1,1,0,1,1,11,m,no,no,'United Kingdom',no,8,'4-11 years',YES,Crianca
+1,1,1,1,0,1,0,1,1,1,10,m,yes,no,India,no,8,'4-11 years',YES,Crianca
+1,1,0,0,1,1,0,0,0,1,4,m,no,no,India,no,5,'4-11 years',NO,Crianca
+1,0,1,1,1,1,1,1,1,1,5,m,no,no,'United Kingdom',no,9,'4-11 years',YES,Crianca
+1,0,1,0,1,1,1,0,1,1,10,m,yes,no,Pakistan,no,7,'4-11 years',YES,Crianca
+1,0,1,0,0,0,1,1,0,0,9,m,yes,no,'New Zealand',no,4,'4-11 years',NO,Crianca
+0,1,1,1,1,1,0,1,0,1,4,m,no,no,India,no,7,'4-11 years',YES,Crianca
+1,0,1,0,0,0,0,0,1,0,4,f,no,yes,'United Kingdom',no,3,'4-11 years',NO,Crianca
+0,0,1,0,0,0,1,0,1,0,5,m,no,no,Ghana,no,3,'4-11 years',NO,Crianca
+1,1,1,1,1,0,1,1,1,1,8,m,no,yes,Australia,no,9,'4-11 years',YES,Crianca
+1,1,1,1,1,1,1,0,1,1,8,m,yes,no,'United States',no,9,'4-11 years',YES,Crianca
+1,0,1,1,0,0,0,0,1,0,6,m,no,no,India,no,4,'4-11 years',NO,Crianca
+0,0,1,0,1,1,1,1,0,1,11,m,no,no,India,no,6,'4-11 years',NO,Crianca
+1,1,1,0,1,1,0,0,1,1,10,f,no,no,India,no,7,'4-11 years',YES,Crianca
+1,0,0,0,1,0,0,1,0,1,6,f,no,no,'United Kingdom',no,4,'4-11 years',NO,Crianca
+1,1,1,1,1,1,1,1,1,0,6,m,no,yes,India,no,9,'4-11 years',YES,Crianca
+0,0,1,0,0,0,0,0,0,1,4,m,no,yes,India,no,2,'4-11 years',NO,Crianca
+0,1,1,1,1,1,0,0,0,1,4,m,no,no,Australia,no,6,'4-11 years',NO,Crianca
+0,1,1,0,0,1,0,1,1,1,4,f,yes,no,'United Kingdom',no,6,'4-11 years',NO,Crianca
+0,0,0,0,1,1,1,0,1,0,5,m,no,no,'United States',no,4,'4-11 years',NO,Crianca
+1,0,1,0,1,1,1,0,0,1,10,f,no,no,Australia,no,6,'4-11 years',NO,Crianca
+0,1,0,1,1,1,1,1,1,1,10,f,no,no,Australia,no,8,'4-11 years',YES,Crianca
+0,1,1,1,1,1,1,1,1,1,5,f,yes,no,Bhutan,no,9,'4-11 years',YES,Crianca
+1,1,1,1,1,1,1,1,1,1,7,f,yes,yes,'United Kingdom',no,10,'4-11 years',YES,Crianca
+1,0,0,0,1,0,1,0,0,1,7,f,yes,yes,Australia,no,4,'4-11 years',NO,Crianca
+1,0,1,1,1,1,1,0,0,1,4,m,no,no,Brazil,no,7,'4-11 years',YES,Crianca
+1,1,1,0,1,1,1,1,1,1,4,m,no,no,India,no,9,'4-11 years',YES,Crianca
+0,0,1,0,1,0,1,0,0,0,4,f,no,no,India,no,3,'4-11 years',NO,Crianca
